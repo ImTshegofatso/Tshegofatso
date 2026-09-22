@@ -40,8 +40,10 @@ I am a detail-oriented Cybersecurity professional transitioning into Blue Team o
 ---
 
 ## Certifications & Education
-* **Certified in Cybersecurity (CC)** | *ISC²* (2026)
-* **Certificate in Cybersecurity** | *CSI / Cape Peninsula University of Technology (CPUT)* (2026)
+* **Matric NSC** | *Hoerskool Westonaria* (2023)
+* **Certified in Cybersecurity (CC)** | *ISC²* (2024)
+* **Full Stack Web Development** | *Stellenbosch University / HyperionDev* (2024)
+* **Certificate in Cybersecurity** | *Cyber Security Institute / Cape Peninsula University of Technology (CPUT)* (Present)
 
 ---
 
