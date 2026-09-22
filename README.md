@@ -8,7 +8,7 @@ I am a detail-oriented Cybersecurity professional transitioning into Blue Team o
 ## Technical Toolkit
 * **SIEM & Logging:** Splunk Enterprise, Linux Syslog
 * **Network Forensics:** Wireshark, Packet Inspection, Traffic Analysis
-* **Operating Systems:** Linux (Ubuntu/Debian), Windows Desktop/Server
+* **Operating Systems:** Linux (Ubuntu), Windows Desktop/Server
 * **Scripting & Automation:** Python (Log parsing, automated alerting), Bash
 * **Data Integrity:** OpenPGP / GnuPG (Asymmetric encryption, digital signatures)
 
